@@ -4,7 +4,11 @@
 //
 //  Created by Chantal Oberson Ausoni on 17/09/2015.
 //
-//
+// generating pseudosphere mesh, with principal curvature circles in a point
+// n and m give the resolution of the mesh, m0 determines where the point lies
+// output pseudo.mesh
+// calling function with: ./a.out 20 20 13
+// in medit: g to show principal circles
 
 #include <stdio.h>
 #include <string.h>

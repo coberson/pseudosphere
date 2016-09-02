@@ -4,7 +4,10 @@
 //
 //  Created by Chantal Oberson Ausoni on 16/09/2015.
 //
-//
+//generating pseudosphere mesh
+//parameters n and m give the resolution of the mesh
+//output pseudo.mesh
+//calling function with: ./a.out 20 20
 
 #include <stdio.h>
 #include <string.h>
