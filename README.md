@@ -6,4 +6,4 @@ pseudo.c for the pseudosphere alone, pseudo_cercle.c to draw the circles corresp
 
 
 
-To see the geodesics in medit: 'g'.
+To see the circles or geodesic in medit: 'g'.
